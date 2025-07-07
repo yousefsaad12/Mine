@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Cascadia+Code:ital,wght@0,200..700;1,200..700&family=Outfit:wght@100..900&display=swap");
+@import "tailwindcss";
+
+* {
+  font-family: Outfit;
+}
+
+select,
+input,
+textarea {
+  border: 1px solid #facc15;
+  outline-color: #eab308;
+  border-radius: 4px;
+}
+.active {
+  background-image: linear-gradient(
+    to right,
+    #ca8a04,
+    #eab308,
+    #facc15
+  ); /* from-yellow-600, via-yellow-500, to-yellow-400 */
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text; /* Safari support */
+  font-weight: bold;
+  border: 1px solid #facc15; /* same border color */
+  transition: all 0.3s ease;
+}
