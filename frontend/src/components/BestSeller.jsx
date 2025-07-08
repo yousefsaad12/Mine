@@ -16,8 +16,9 @@ export default function BestSeller() {
       <div className="text-center text-3xl py-8">
         <Title text1={"BEST"} text2={"SELLERS"} />
         <p className="w-3/4 m-auto text-xs sm:text-sm md:text-base text-gray-600">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis
-          tenetur iusto culpa, unde aut expedita ex adipisci inventore explicabo
+          Explore our best sellers—loved by customers for their timeless design,
+          exceptional quality, and everyday elegance. These pieces are tried,
+          true, and perfect for any occasion.
         </p>
       </div>
 

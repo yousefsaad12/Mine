@@ -10,7 +10,8 @@ export default function NewsLetterBox() {
         Subscribe now & get 20% off
       </p>
       <p className="text-gray-400 mt-3">
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellendus
+        Join our newsletter to get exclusive offers, style tips, and early
+        access to new collections—plus enjoy 20% off your first order!{" "}
       </p>
       <form
         onSubmit={onSubmitHandler}

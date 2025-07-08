@@ -9,8 +9,8 @@ export default function Footer() {
             MINE<span className="text-yellow-300">.</span>
           </div>
           <p className="w-full md:w-2/3 text-gray-600">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem
-            expedita debitis deleniti similique provident, qui aliquam dolorem
+            Timeless jewelry designed to celebrate your moments. Crafted with
+            care, made to shine.
           </p>
         </div>
         <div>

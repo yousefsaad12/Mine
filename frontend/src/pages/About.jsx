@@ -18,19 +18,24 @@ export default function About() {
         />
         <div className="flex flex-col justify-center gap-6 md:w-2/4 text-gray-600">
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis
-            hic animi ducimus repellendus illum aperiam eveniet adipisci.
+            At Mine, we believe jewelry is more than an accessory—it's a
+            reflection of your story and style. With years of experience, we
+            craft elegant, timeless pieces made to celebrate life’s special
+            moments with quality and individuality.
           </p>
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Itaque vel
-            atque repellat tempore qui alias fugiat? Temporibus dolore.
+            Our collections are designed with a deep appreciation for quality,
+            artistry, and individuality. Whether you’re celebrating a milestone,
+            looking for the perfect gift, or treating yourself, our jewelry is
+            designed to make every moment shine.
           </p>
 
           <b className="text-gray-800">Our Mission</b>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quidem
-            quos sapiente eius? Et labore tempora ipsum, consectetur
-            consequatur.
+            To create meaningful, handcrafted jewelry that connects with
+            people’s emotions and memories. We are passionate about quality,
+            sustainability, and customer satisfaction—ensuring every piece
+            reflects our values and your story.
           </p>
         </div>
       </div>
@@ -43,30 +48,30 @@ export default function About() {
         <div className="border px-10 md:px-16 py-8 sm:py-20 flex flex-col gap-5">
           <b>Quality Assurance:</b>
           <p className="text-gray-600">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore
-            doloremque illo obcaecati dolor, eveniet ullam nulla qui veniam
-            saepe commodi inventore quas earum exercitationem similique hic
-            iure. Porro, libero! Et.
+            We use only the finest materials, including certified gemstones and
+            premium metals, ensuring that every piece meets our rigorous quality
+            standards. Each item is inspected by expert artisans to guarantee
+            lasting beauty and durability.
           </p>
         </div>
 
         <div className="border px-10 md:px-16 py-8 sm:py-20 flex flex-col gap-5">
           <b>Convenience:</b>
           <p className="text-gray-600">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore
-            doloremque illo obcaecati dolor, eveniet ullam nulla qui veniam
-            saepe commodi inventore quas earum exercitationem similique hic
-            iure. Porro, libero! Et.
+            Enjoy a seamless shopping experience with our user-friendly online
+            store, secure checkout, and fast, reliable shipping. Whether you're
+            browsing from your phone or desktop, we make it easy to find your
+            perfect piece.
           </p>
         </div>
 
         <div className="border px-10 md:px-16 py-8 sm:py-20 flex flex-col gap-5">
           <b>Customer Service:</b>
           <p className="text-gray-600">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore
-            doloremque illo obcaecati dolor, eveniet ullam nulla qui veniam
-            saepe commodi inventore quas earum exercitationem similique hic
-            iure. Porro, libero! Et.
+            Our dedicated support team is here to help you at every step—from
+            styling advice to post-purchase care. We offer hassle-free returns,
+            customization options, and a commitment to your complete
+            satisfaction.
           </p>
         </div>
       </div>
