@@ -281,26 +281,6 @@ VITE_BACKEND_URL=https://your-backend-domain.vercel.app
 
 This project is licensed under the ISC License.
 
-## 👨‍💻 Author
 
-**Yousef Saad**
-- Email: mine.access00ries@gmail.com
-- Phone: +20 01285503980
-
-## 🙏 Acknowledgments
-
-- React team for the amazing framework
-- Tailwind CSS for the utility-first CSS framework
-- MongoDB for the flexible database solution
-- Cloudinary for image management services
-- Vercel for seamless deployment
-
-## 📞 Support
-
-For support and questions:
-- Email: mine.access00ries@gmail.com
-- Phone: +20 01285503980
-
----
 
 **MINE.** - Your complete e-commerce solution 
